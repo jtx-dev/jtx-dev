@@ -7,7 +7,7 @@
     <td>
       <h2> 💻 &nbsp;Sobre mí</h2>
        <ul>
-        <li>📚 &nbsp; Estudiante de ingeniería civil informática <a href="https://ut.ac.ir/en">UT</a></li>
+        <li>📚 &nbsp; Estudiante de ingeniería civil informática</li>
        </ul>
        <p align="center">
          <br>
