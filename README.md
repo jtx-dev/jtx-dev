@@ -1,26 +1,19 @@
-# Bienvenid@! 👑
+# Bienvenid@!
 
 ## Soy Jetix
-![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
+![Badge](https://shields.io/badge/Etapa-En_formacion-orange)
 <table>
   <tr>
     <td>
-      <h2> 💻 &nbsp;Sobre mí</h2>
+      <h2>&nbsp;Sobre mí</h2>
        <ul>
         <li>📚 &nbsp; Estudiante de ingeniería civil informática</li>
        </ul>
-       <p align="center">
-         <br>
-        </p>
-    </td>
-    <td>
-     <p align="center">
-     </p>
     </td>
   </tr>
   <tr>
    <td>
-     <h2> 🛠 &nbsp;Tech Stack</h2>
+     <h2> &nbsp;Tech Stack</h2>
      <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C"/>
      <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
      <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
@@ -44,8 +37,6 @@
      <br>
      <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
-   </td>
-   <td>
    </td>
   </tr>
 </table>
